@@ -50,7 +50,7 @@ module.exports = {
 
   //commands/config/premium
   premium: {
-    admin: "<:Discronix_StarDia:1280803322860929057",
+    admin: "<:Discronix_StarDia:1280803322860929057>",
     bell: "<:eg_notification:1277919784331120721>",
     free: "<:Discronix_Star:1280803344847470633>",
     rich: "<a:nitro:1282726818440417415>",
@@ -78,7 +78,7 @@ module.exports = {
   profile: {
     coin: "<a:z_sl_money:1282736837508464673>",
     dev: "<:developer:1188921403005751436>",
-    admin: "<:Discronix_StarDia:1280803322860929057",
+    admin: "<:Discronix_StarDia:1280803322860929057>",
     premium: "<:mpremium:1267020417361510484>",
     user: "<:Discronix_User:1280803251784126486>",
   },
@@ -159,7 +159,7 @@ module.exports = {
     link: "<:link:1189089242605965373>",
     cog: "<:cog:1187274696530612284>",
     dev: "<:developer:1188921403005751436>",
-    admin: "<:Discronix_StarDia:1280803322860929057",
+    admin: "<:Discronix_StarDia:1280803322860929057>",
     king: "<:owner:1191113639965491260>",
     no: "<a:Cross:1275695195383533579>",
     dir: "<:dir:1189088959544967238>",
@@ -227,7 +227,7 @@ module.exports = {
   clear: {
     bell: "<:eg_notification:1277919784331120721>",
     cog: "<:eg_setting:1277919764605304935>",
-    list: "<:Discronix_StarDia:1280803322860929057>",
+    list: "<:Discronix_StarDia:1280803322860929057>>",
     yes: "<a:Check:1275695400799436866>",
   },
 
@@ -267,7 +267,7 @@ module.exports = {
     on: "<:menable:1267003820966281247>",
     off: "<:mdisable:1267011964895498340>",
     no: "<a:Cross:1275695195383533579>",
-    queue: "<:Discronix_StarDia:1280803322860929057>",
+    queue: "<:Discronix_StarDia:1280803322860929057>>",
     track: "<:Discronix_New:1280803300748296243>",
   },
 
@@ -379,7 +379,7 @@ module.exports = {
 
   //commands/owner/add
   add: {
-    admin: "<:Discronix_StarDia:1280803322860929057",
+    admin: "<:Discronix_StarDia:1280803322860929057>",
     bell: "<:eg_notification:1277919784331120721>",
     no: "<a:Cross:1275695195383533579>",
     on: "<:menable:1267003820966281247>",
@@ -431,7 +431,7 @@ module.exports = {
 
   //commands/owner/revoke
   revoke: {
-    admin: "<:Discronix_StarDia:1280803322860929057",
+    admin: "<:Discronix_StarDia:1280803322860929057>",
     bell: "<:eg_notification:1277919784331120721>",
     no: "<a:Cross:1275695195383533579>",
     on: "<:menable:1267003820966281247>",
@@ -459,7 +459,7 @@ module.exports = {
   message: "<:m_message:1267025393521659984>",
   free: "<:Discronix_Star:1280803344847470633>",
   new: "<:Mnewmember:1267038904347922453>",
-  admin: "<:Discronix_StarDia:1280803322860929057",
+  admin: "<:Discronix_StarDia:1280803322860929057>",
   rad: "<:radio:1189097687883198464>",
   diamond: "<a:RH_red_diamond:1272449579953946705>",
 };
