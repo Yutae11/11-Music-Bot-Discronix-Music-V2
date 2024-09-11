@@ -1,0 +1,34 @@
+# @format
+
+BOT:
+  OWNERS: ["948937171031695411"]
+  ADMINS: [""]
+
+LINKS:
+  SUPPORT: "https://dsc.gg/discronix"
+  MONGO_URI: "mongodb+srv://Wickie_HQ:corona9122006@cluster0.inpbff5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+
+SPOTIFY:
+  ID: "e6f84fbec2b44a77bf35a20c5ffa54b8"
+  SECRET: "98f461b962443cfaf9539c610e2ea81"
+
+MANAGER:
+  OWNER: "948937171031695411"
+  TOKEN: "MTIxNTM1NDA1NzI0NjUxMTEwNA.GcpU6Y.5ekrxs3cvsKKgFijepLQFaoTb1WAfiGf1xtaIE"
+
+FUEGO:
+  PREFIX: "1"
+  EMOJIS: "black"
+  COLOR: "#07f7fa"
+  SHARDS: 1
+  PER_CLUSTER: 1
+  TOKEN: "MTIxNTM1NDA1NzI0NjUxMTEwNA.GcpU6Y.5ekrxs3cvsKKgFijepLQFaoTb1WAfiGf1xtaIE"
+  TOPGGAUTH: "https://top.gg/bot/1215354057246511104/vote"
+
+
+WEBHOOKS:
+  ERROR: "https://discord.com/api/webhooks/1266701637167349871/xVG-dr8ie61w0M5z8RBpZk6E9Qy9FML1YKj-EO-4820DWaGP6WVRUa8nAHCElNJmVsKC"
+  STATIC: "https://discord.com/api/webhooks/1266701637167349871/xVG-dr8ie61w0M5z8RBpZk6E9Qy9FML1YKj-EO-4820DWaGP6WVRUa8nAHCElNJmVsKC"
+  PLAYER: "https://discord.com/api/webhooks/1266701637167349871/xVG-dr8ie61w0M5z8RBpZk6E9Qy9FML1YKj-EO-4820DWaGP6WVRUa8nAHCElNJmVsKC"
+  SERVER: "https://discord.com/api/webhooks/1266701637167349871/xVG-dr8ie61w0M5z8RBpZk6E9Qy9FML1YKj-EO-4820DWaGP6WVRUa8nAHCElNJmVsKC"
+  COMMAND: "https://discord.com/api/webhooks/1266701637167349871/xVG-dr8ie61w0M5z8RBpZk6E9Qy9FML1YKj-EO-4820DWaGP6WVRUa8nAHCElNJmVsKC"
