@@ -5,7 +5,7 @@ module.exports = {
   run: async (client, message) => {
     const embed = new EmbedBuilder()
       .setDescription(`<:qt_kronix:1282509164291293267> Heyoo..!! - ${message.author}\n<a:flower:1281549564427632640> Prefix - \`${client.prefix}\`\n\nTry \`${client.prefix}help\` To Get The Command List.`)
-      .setImage('https://media.discordapp.net/attachments/1277534826819223586/1277927652765995069/eleven.png?ex=66cef25f&is=66cda0df&hm=b09e776e030ce9738bf735767825ce822eb36e575ab7007d5a102fb8e9dfbb8e&')
+      .setImage('https://cdn.discordapp.com/attachments/1188669877985222677/1271783939236958238/20240810_155952.jpg?ex=66e02597&is=66ded417&hm=79a3b3701ceb90b3d9b68269a1e4766ae95a26bf5fe5ba89480211306a1ad68a&')
       .setFooter({ text: 'made with love for y\'all ~ Doremxn',
                       iconURL: 'https://cdn.discordapp.com/emojis/1282510435668459592.png' // Replace with the actual image URL
                     })
