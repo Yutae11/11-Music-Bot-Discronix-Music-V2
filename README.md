@@ -1,7 +1,7 @@
-# Discord Bot Code Leak - [Eleven](https://dsc.gg/discronix)
+# Discord Bot Code Leak - [11](https://dsc.gg/discronix)
 
 ## Overview
-This repository contains the leaked code for [Eleven](https://dsc.gg/discronix). Feel free to explore, learn, or use it as you like. Please note that this code is provided for educational purposes, and I am not responsible for any misuse.
+This repository contains the leaked code for [11](https://dsc.gg/discronix). Feel free to explore, learn, or use it as you like. Please note that this code is provided for educational purposes, and I am not responsible for any misuse.
 
 
 - skided by [Doremxn.](https://discord.com/users/948937171031695411)
